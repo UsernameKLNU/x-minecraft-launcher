@@ -1,4 +1,27 @@
 
+## 0.24.2
+### @xmcl/runtime-api@0.8.1
+#### Bug Fixes
+
+- store ms accessToken ([cc46f4f943ed76e4f15f9894629a23716be164a4](https://github.com/Voxelum/x-minecraft-launcher/commit/cc46f4f943ed76e4f15f9894629a23716be164a4))
+### @xmcl/keystone-ui@0.23.2
+#### Bug Fixes
+
+- build failed for yaml ([aee2f9588ef5a428ca44fd039e6378e904a41eb2](https://github.com/Voxelum/x-minecraft-launcher/commit/aee2f9588ef5a428ca44fd039e6378e904a41eb2))
+- Update ru.yaml ([6a3241802ea8a722b2ca6d54e576bbf5507c78ca](https://github.com/Voxelum/x-minecraft-launcher/commit/6a3241802ea8a722b2ca6d54e576bbf5507c78ca))
+### @xmcl/runtime@0.22.1
+#### Bug Fixes
+
+- adjust the account access token ([f497b014522ab7870970de17d77be102f69c736f](https://github.com/Voxelum/x-minecraft-launcher/commit/f497b014522ab7870970de17d77be102f69c736f))
+- add correct scope to ms login ([b21c0613e47fe700e56897f6d7db564d3524516d](https://github.com/Voxelum/x-minecraft-launcher/commit/b21c0613e47fe700e56897f6d7db564d3524516d))
+- store ms accessToken ([cc46f4f943ed76e4f15f9894629a23716be164a4](https://github.com/Voxelum/x-minecraft-launcher/commit/cc46f4f943ed76e4f15f9894629a23716be164a4))
+### xmcl@0.24.2
+#### Bug Fixes
+
+- Update ru.yaml ([6a3241802ea8a722b2ca6d54e576bbf5507c78ca](https://github.com/Voxelum/x-minecraft-launcher/commit/6a3241802ea8a722b2ca6d54e576bbf5507c78ca))
+- prevent dll load crash app ([acaaa23445f1fa90878f3352b2dbf9c28ce6a928](https://github.com/Voxelum/x-minecraft-launcher/commit/acaaa23445f1fa90878f3352b2dbf9c28ce6a928))
+
+
 ## 0.24.1
 ### @xmcl/keystone-ui@0.23.1
 #### Bug Fixes
